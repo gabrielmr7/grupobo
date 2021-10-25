@@ -13,6 +13,7 @@ public class Main {
     public static void main(String argv[]){
         System.out.println("Hola!!!");
         System.out.println("Ahhhhhh!!!");
+        system.out.println("loooool");
         for(int i=0;i<100;i++){
             System.out.println(i+ " elefantes se columpiaban");
         }
