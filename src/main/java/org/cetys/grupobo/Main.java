@@ -17,6 +17,8 @@ public class Main {
         System.out.println("Modificacion 2");
         for(int i=0;i<100;i++){
             System.out.println(i+ " elefantes se columpiaban");
+            
+            System.out.println("ya no hay elefantes ");
         }
     }
 }
